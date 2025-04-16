@@ -1,0 +1,27 @@
+.language-dropdown {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+}
+
+.language-dropdown select {
+  padding: 4px 0px;
+  border: 1px solid #008cff;
+  border-radius: 6px;
+  background-color: #f0f8ff;
+  color: #0056b3;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.language-dropdown select:hover {
+  background-color: #e0f0ff;
+}
+
+.language-dropdown select:focus {
+  outline: none;
+  border-color: #0056b3;
+}
