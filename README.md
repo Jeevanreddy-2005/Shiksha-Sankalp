@@ -70,4 +70,3 @@ Our project **Shiksha Sankalp**, provides a platform to record, analyze and scal
 [![Hitesh P](https://img.shields.io/badge/hitesh%20p-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-p-aa55662a3) &nbsp;
 [![Jeevan N](https://img.shields.io/badge/jeevan%20n-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-n-39a5652a3/)
 # Shiksha-Sankalp
-# Shiksha-Sankalp
