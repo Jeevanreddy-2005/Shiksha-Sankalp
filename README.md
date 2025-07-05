@@ -38,7 +38,7 @@ Our project **Shiksha Sankalp**, provides a platform to record, analyze and scal
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Kishore-SR/Shiksha-Sankalp
+   git clone https://github.com/Jeevanreddy-2005/Shiksha-Sankalp
    ```
    ```sh
    cd Shiksha-Sankalp
